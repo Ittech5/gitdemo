@@ -1,0 +1,12 @@
+PS E:\git learn\mainfile> git branch -m main
+PS E:\git learn\mainfile> git branch
+* main
+PS E:\git learn\mainfile> git  push  origin main
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 228 bytes | 228.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/Ittech5/mainfile.git
+ * [new branch]      main -> main
+PS E:\git learn\mainfile> cd ..
+PS E:\git learn> 
